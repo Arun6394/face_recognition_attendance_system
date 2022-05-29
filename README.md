@@ -1,6 +1,6 @@
 HOW TO RUN THIS PROJECT ON YOUR SYSTEM--
 First clone the project and extract the files on your system.
-Then open powershell on the same folder and run the command( pip install -r req.txt  )
+    Then open powershell on the same folder and run the command( pip install -r req.txt  )
    .Be sure that the  libraries:: asgiref==3.3.1,
 click==7.1.2,
 cmake==3.18.4.post1,
