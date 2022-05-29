@@ -37,3 +37,5 @@ After that open project on vs code and in new terminal run the command  ( python
 The id and password for admin login is (id=arun) and (password=arun), however you can change it by running the command ( python manage.py createsuperuser  )
 
 ![Screenshot (314)](https://user-images.githubusercontent.com/98249951/170855597-2eaf00c8-4029-4017-a5e0-2d4617520388.png)
+
+![Screenshot (315)](https://user-images.githubusercontent.com/98249951/170855598-811a6af1-9ade-46a1-95f6-8e1b38acdc2c.png)
